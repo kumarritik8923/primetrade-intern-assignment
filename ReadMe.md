@@ -1,22 +1,23 @@
-# Primetrade.ai - Data Science Intern Assignment
+# Primetrade.ai - Intern Assignment
 **Trader Performance vs Market Sentiment Analysis**
 
 ## Objective
 This project analyzes the relationship between Bitcoin market sentiment (Fear/Greed Index) and trader behavior/performance on the Hyperliquid platform. The goal is to uncover data-driven patterns to inform smarter, actionable trading strategies.
 
 ## Repository Structure
-* `Market_sentiment.ipynb`: The main Jupyter Notebook containing data preparation, exploratory data analysis, segmentation, and a bonus predictive model.
-* `performance_by_sentiment.png`: Visual evidence of PnL and Win Rate across sentiment regimes.
 * `behavior_by_sentiment.png`: Visual evidence of trade frequency and size variations.
+* `Data Science Intern project .pdf`: The original assignment instruction and requirements document.
+* `Market_sentiment.ipynb`: The main Jupyter Notebook containing data preparation, exploratory data analysis, segmentation, and the predictive model.
+* `performance_by_sentiment.png`: Visual evidence of PnL and Win Rate across sentiment regimes.
+* `README.md`: Project summary, methodology, and strategic findings.
 * `segmentation_insights.png`: Visual evidence of performance split by trader archetypes.
-* `README.md`: Project summary and findings.
 
 ## Setup & Installation
 To run this analysis locally, ensure you have Python 3.8+ installed. 
 
 1. Clone this repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/kumarritik8923/primetrade-intern-assignment
 
 2. Install the required dependencies mentioned in requirements.txt file.
 
